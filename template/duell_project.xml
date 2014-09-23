@@ -4,7 +4,7 @@
 
 	<main name="Main" />
 
-	<source path="Source" />
+	<source path="source" />
 
 	<duelllib name="types" />
 
