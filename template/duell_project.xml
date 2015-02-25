@@ -6,6 +6,6 @@
 
 	<source path="source" />
 
-	<duelllib name="types" version="1.*.*" />
+	<duelllib name="types" version="1.0.0+" />
 
 </project>
